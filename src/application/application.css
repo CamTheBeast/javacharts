@@ -1,0 +1,11 @@
+.series0{
+    -fx-bar-fill: blue;
+}
+
+.series1 {
+    -fx-bar-fill: pink;
+}
+
+.series2 {
+    -fx-bar-fill: red;
+}
